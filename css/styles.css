@@ -1,0 +1,22 @@
+
+h1{
+  margin-center : 5em;
+  color : white;
+  text-align: center;
+}
+
+form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+}
+body{
+  background-image: url("https://wallpaperplay.com/walls/full/e/9/1/155441.jpg");
+  background-repeat: no-repeat;
+  opacity: 0.9;
+}
+#response{
+  text-align: center;
+  color: white;
+}
