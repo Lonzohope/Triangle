@@ -11,7 +11,7 @@ No known bugs
 I used html, css and javascript for this project
 ### License
 
-* [MIT LICENSE] (LICENSE)
+* [MIT LICENSE](LICENSE)
 Copyright (c) {2019} **Hope Mutheu**
 
 
