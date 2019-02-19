@@ -10,5 +10,5 @@ No known bugs
 ## Technologies Used
 I used html, css and javascript for this project
 ### License
-*[MIT LICENSE] (LICENSE)
+* [MIT LICENSE] (LICENSE)
 
